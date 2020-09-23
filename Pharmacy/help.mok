@@ -1,0 +1,320 @@
+<html dir="rtl">
+
+<head>
+<meta http-equiv="Content-Language" content="ar-sa">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1256">
+<title>نظام الصيدليّة 2007 - الإصدار الثالث (نسخة أيّار)</title>
+</head>
+
+<body>
+
+<p align="center"><b><font size="5" color="#000080">نظام الصيدليّة 2007</font></b></p>
+<p align="center"><b><font size="5" color="#000080">الإصدار الثالث - نسخة أيّار</font></b></p>
+<p align="center"><b><span lang="en-us"><font size="5" color="#000080">Pharmacy 
+System 2007</font></span></b></p>
+<p align="center"><b><span lang="en-us"><font size="5" color="#000080">Version 3 
+- May 2007</span></font></b></p>
+<p align="center"><span lang="en-us"><font size="5"><b>
+-----------------------------------------------------------------------</b></font></span></p>
+<p align="center"><u><b><font size="5" color="#FF0000">مواضيع التعليمات</font></b></u></p>
+<p align="center"><b><a href="#مقدمة_:_">مقدمة</a></b></p>
+<p align="center"><b><a href="#البدء_في_العمل_مع_نظام_الصيدليّة_2007_">البدء في 
+العمل مع النظام</a></b></p>
+<p align="center"><b><a href="#إعدادات النظام">إعدادات النظام</a></b></p>
+<p align="center"><b><a href="#الموردين">المورّدين للأدوية</a></b></p>
+<p align="center"><b><a href="#أشكال العبوة">أشكال العبوات</a></b></p>
+<p align="center"><b><a href="#شركات_الأدوية_">شركات الأدوية</a></b></p>
+<p align="center"><a href="#مستودع_الصيدليّة__"><b>قائمة الأدوية (م</b></a><b><a href="#مستودع_الصيدليّة__">ستودع 
+الصيدليّة</a>)</b></p>
+<p align="center"><b><a href="#سجل_العملاء__">سجل العملاء</a></b></p>
+<p align="center"><b><a href="#حسابات_العملاء_">حسابات العملاء</a></b></p>
+<p align="center"><b><a href="#اليوميّة__">اليوميّة</a></b></p>
+<p align="center"><b><a href="#التقارير_:_">التقارير</a></b></p>
+<p align="center"><b><a href="#مستخدم_صيانة_النظام_السرّي_">حسابات المستخدمين</a></b></p>
+<p align="center"><b><a href="#النسخ_الإحتياطي_:">النسخ الإحتياطي</a></b></p>
+<p align="center"><b>
+----------------------------------------------------------------------------------------------------------------------</b></p>
+<p align="center"><font color="#008000" size="4"><b><a name="مقدمة_:_">مقدمة :</a></b></font></p>
+<p align="center"><b>يعتبر نظام<span lang="en-us"> </span>الصيدليّة 2007 أول 
+نظام عربي عربي 100 %</b></p>
+<p align="center"><b>&nbsp;من برمجة يد عربيّة بشكل كامل (تم بناؤه من الصفر) .</b></p>
+<p align="center"><b>لقد تم بناء نظام الصيدليّة 2007&nbsp; بحيث نضمن لكم عدم حدوث أي أخطاء 
+مستقبلية على الصعيد</b></p>
+<p align="center"><b>المحاسبي الخاص بالنظام&nbsp; و هذا 
+يضمن عدم انهيار النظام كما يحصل في أغلب الأنظمة الأخرى .</b></p>
+<p align="center"><b>لقد تم تطوير النظام لهذا الإصدار حيث تم تطوير النظام بنسبة 
+تفوق الـ 80 % عن الإصدار الثاني الذي كان يعاني </b></p>
+<p align="center"><b>من نقص بعض الميزات التي تم تضمينها في هذا الإصدار بحمد الله 
+.</b></p>
+<p align="center"><b>بعون الله عز و جل يمكنك الاطمئنان أنك قد وضعت قدمك على 
+بداية الطريق الصحيح باختيارك نظام الصيدليّة&nbsp; 2007</b></p>
+<p align="center"><font color="#008000" size="4"><b>
+<a name="البدء_في_العمل_مع_نظام_الصيدليّة_2007_">البدء في العمل مع نظام 
+الصيدليّة 2007</a></b></font></p>
+<p align="center"><b>عند تشغيل النظام سوف يطلب منك النظام ادخال اسم المستخدم و 
+كلمة المرور قم بإدخال البيانات التالية</b></p>
+<p align="center"><b>اسم المستخدم : مختار</b></p>
+<p align="center"><b>كلمة المرور : 1988</b></p>
+<p align="center"><img border="0" src="1.gif" width="404" height="151"></p>
+<p align="center"><b>الآن من المفروض ظهور واجهة البرنامج الأساسيّة أمامك كما في 
+الشكل التالي تقريباً</b></p>
+<p align="center"><img border="0" src="2.gif" width="800" height="600"></p>
+<p align="center"><b>كما ترى الآن فقد ظهرت شاشة نصيحة اليوم تقوم هذه الشاشة بعرض 
+ميّزة جديدة في كل مرة يتم فيها تشغيل النظام</b></p>
+<p align="center"><b>ربما تكون غافلاً عن هذه الميّزات الموجودة في النظام لذا سوف 
+تكون هذه الشاشة بمثابة تذكير دائم لك </b></p>
+<p align="center"><b>ملاحظة : بإمكانك إلغاء عرض هذه الشاشة من خيارات البرنامج .</b></p>
+<p align="center"><b>بعد إغلاق شاشة نصيحة اليوم سوف يكون شكل البرنامج كالصورة 
+الآتية</b></p>
+<p align="center"><img border="0" src="3.gif" width="800" height="600"></p>
+<p align="center"><b>و الآن سوف نقوم بشرح وظيفة كل خيار من هذه الخيارات الظاهرة 
+على الشاشة انطلاقاً من اليمين و انتهاءً باليسار .</b></p>
+<p align="center"><font color="#008000" size="4"><b><a name="إعدادات النظام">
+إعدادات النظام</a></b></font></p>
+<p align="center"><b>من خلال هذه الشاشة يمكنك ضبط الاعدادات العامة للنظام و التي 
+تحدد طبيعة عمل النظام </b></p>
+<p align="center"><img border="0" src="4.gif" width="800" height="600"></p>
+<p align="center"><b>تنقسم هذه الشاشة إلى قسمين رئيسيّن الأول يحتوي على معلومات 
+الصيدليّة التي تستعمل النظام و هذه المعلومات المدخلة سوف يتم الاستفادة منها في 
+أقسام أخرى</b></p>
+<p align="center"><b>من النظام .</b></p>
+<p align="center"><b>القسم الثاني يحمل اسم اعدادات النظام و فيه تقوم بضبط ثلاث 
+خصائص مهمّة </b></p>
+<p align="center"><b>أهم خاصيّة هنا هي خاصيّة عدد الأيام قبل اعتبار الدواء 
+فاسداً حيث أن البرنامج سوف يقوم باعتبار الأدوية التي بقي على تاريخ انتهاء 
+صلاحياتها العدد المدخل هنا من الأيام</b></p>
+<p align="center"><b>فاسدةًَ و سوف يقوم بعرض تنبيه عند محاولة البيع كما سيقوم 
+بعرض قائمة بالأدوية الفاسدة (بشكل افتراضي يكون هذا الإعداد 10 أيام يمكنك تغييره 
+بما يناسبك ).</b></p>
+<p align="center"><b>الخياران الآخران تتوضح مهمة كل منهما من خلال اسمه .</b></p>
+<p align="center"><img border="0" src="5.gif" width="800" height="600"></p>
+<p align="center"><a name="شركات_الأدوية_"><font size="4" color="#008000"><b>
+<a name="الموردين">الموردين للأدوية</a></b></font></a></p>
+<p align="center"><b>من خلال هذه الشاشة نقوم بتعريف و ادخال كافة الموردين 
+للأدوية و الذين تتعامل معهم الصيدليّة</b></p>
+<p align="center"><img border="0" src="6.gif" width="800" height="600"></p>
+<p align="center"><b>لإضافة مورّد انقر على زر إضافة مورّد قم قم بإدخال بيانات 
+المورّد كما في الصورة</b></p>
+<p align="center"><img border="0" src="7.gif" width="800" height="600"></p>
+<p align="center"><b>الآن عند النقر على زر موافق سوف يتم تعريف المورد و سوف 
+تلاحظ ظهوره ضمن جدول المورّدين</b></p>
+<p align="center"><img border="0" src="8.gif" width="800" height="600"></p>
+<p align="center"><b>بإمكانك تعديل المعلومات المدخلة لأي مورّد أو حذف بيانات أي 
+مورّد من خلال تحديد المورّد ثم تطبيق الأمر المراد من خلال الأزرار .</b></p>
+<p align="center"><a name="أشكال العبوة"><font size="4" color="#008000"><b>أشكال 
+العبوة</b></font></a></p>
+<p align="center"><b>&nbsp;هذه النافذة مخصّصة لتعريف أشكال العبوات الخاصة 
+بالأدوية بشكل عام مثلاً (أقراص 20 - أقراص 25 - شراب - سيروم - إبرة ..... إلخ)</b></p>
+<p align="center"><b>طبعاً طريقة الإضافة و التعديل و الحذف مشابهة للطريقة 
+المشروحة في فقرة <a href="#الموردين">المورّدين</a></b></p>
+<p align="center"><img border="0" src="9.gif" width="800" height="600"></p>
+<p align="center"><b><font color="#008000" size="4"><a name="شركات_الأدوية_">
+شركات الأدوية</a></font></b></p>
+<p align="center"><b>سوف تقوم هنا بإدخال الشركات المصنعة للأدوية و التي سوف 
+يحتوي مستودع الصيدليّة على الأدوية المصنعة من قبلها</b></p>
+<p align="center"><b>مثل ( عمريت - أوبري - ألفا -&nbsp; .... إلخ)</b></p>
+<p align="center"><b>و التعامل مع واجهة شركات الأدوية بسيط و سهل جداً كل ما عليك 
+هو ادخال اسم الشركة و الضغط على الزر المناسب .</b></p>
+<p align="center"><img border="0" src="10.gif" width="800" height="600"></p>
+<p align="center"><b><font size="4" color="#008000">
+<a name="مستودع_الصيدليّة__">قائمة الأدوية (مستودع الصيدليّة </a>)</font></b></p>
+<p align="center"><b>الآن و بعد أن قمنا بإدخال كافة البيانات السابقة من المفترض أن نقوم 
+بإدخال جميع الأدوية الموجودة في قائمة الأدوية و يتم الإدخال بشكل بسيط و سهل</b></p>
+<p align="center"><b>بالإعتماد على شركات الأدوية و المورّدين و أشكال العبوات التي تم إدخالها سابقاً لإضافة 
+دواء جديد انقر على زر إضافة دواء ... سوف تظهر لك نافذة إضافة دواء</b></p>
+<p align="center"><b>أمام المربع اسم الشركة قم بالنقر نقراً مزدوجاً على المكان 
+المخصص لإسم الشركة (أو إضغط مفتاح الـ <span lang="en-us">Enter </span>) سوف تظهر 
+لك قائمة الشركات قم بتحديد الشركة</b></p>
+<p align="center"><b>ثم انقر موافق ثم قم بتعبئة البيانات المطلوبة</b></p>
+<p align="center"><img border="0" src="12.gif" width="800" height="600"></p>
+<p align="center"><b>الآن لإدخال اسم الشركة انقر نقراً مزدوجاً على مربع اسم 
+الشركة أو قم بالنقر على الزر الصغير بجانب المربّع الأصفر أو قم بنقر مفتاح 
+الإدخال <span lang="en-us">Enter</span> سوف</b></p>
+<p align="center"><b>تظهر شاشة تقوم من خلالها بتحديد الشركة المصنّعة من الشركات 
+التي تم ادخالها مسبقاً</b></p>
+<p align="center"><img border="0" src="13.gif" width="800" height="600"></p>
+<p align="center"><b>قم بتحديد الشركة ثم انقر الزر موافق سوف تعود لشاشة إدخال 
+معلومات الدواء حيث أصبح حقل اسم الشركة الآن يحتوي على اسم الشركة المحدّدة</b></p>
+<p align="center"><img border="0" src="14.gif" width="800" height="600"></p>
+<p align="center"><b>ملاحظة : كافة الحقول التي باللون الأصفر تعتمد نفس الطريقة 
+لإدخال البيانات .</b></p>
+<p align="center"><b>الآن قم بإكمال البيانات الخاصة بالدواء و عندما تصل لحقل كود 
+الدواء قم بتمرير كود الدواء عن طريق قارئ الباركود أو قم بإدخاله يدويّاً</b></p>
+<p align="center"><b>في حال أن الدواء لا يحتوي على كود خاص تستطيع توليد كود له 
+من خلال الأمر توليد كود .</b></p>
+<p align="center"><b>بعد إكمال تعبئة كافة الحقول اضغط الزر موافق سوف تلاحظ ظهور 
+الدواء في جدول الأدوية و هذا يعني انه تمت الإضافة بنجاح .</b></p>
+<p align="center"><img border="0" src="15.gif" width="800" height="600"></p>
+<p align="center"><b>ملاحظة : في حال وجود أكثر من دواء لها معلومات متشابهة 
+تستطيع استعمال الأمر &quot;جديد مشابه&quot; الذي يقوم بتعبئة بعض الحقول اعتماداً على 
+الدواء المحدد من الشبكة</b></p>
+<p align="center"><img border="0" src="16.gif" width="800" height="600"></p>
+<p align="center"><b>بالنسبة لأوامر التعديل و الحذف فهي واضحة و لا تحتاج للمزيد 
+من الشرح .</b></p>
+<p align="center"><b>تستطيع البحث عن دواء معيّن من خلال الأمر بحث و تصفية حيث 
+يمكنك عرض الأدوية بشكل مفلتر حسب الرغبة</b></p>
+<p align="center"><img border="0" src="17.gif" width="800" height="600"></p>
+<p align="center"><b>ملاحظة : يمكنك في أي وقت عرض كافة الأدوية من خلال الأمر عرض 
+الكل .</b></p>
+<p align="center"><b>الآن الأمر الأدوية النافذة يقوم بعرض قائمة بالأدوية المسجلة 
+و التي لم يعد يتوفر منها أي قطعة حتّى تتمكن من طلبها من المورّد .</b></p>
+<p align="center"><b>أما أمر الأدوية الفاسدة فيقوم بعرض قائمة بالأدوية التي قارب 
+تاريخ صلاحيتها على الإنتهاء أو التي انتهت صلاحيتها فعلاً</b></p>
+<p align="center"><b>ملاحظة : في الحقيقة الفترة الزمنيّة الفاصلة قبل اعتبار 
+الدواء فاسداً يتم تحديدها في إعدادات النظام .</b></p>
+<p align="center"><b>الآن قلنا قبل قليل أنه من المحتمل أن بعض الأدوية لا تحمل 
+كود دواء خاص بها و قد قمنا بتوليد كود لهذا النوع من الأدوية الأمر طباعة اللصاقات 
+يستخدم</b></p>
+<p align="center"><b>لتوليد لصاقات البار كود ليتم لصقها على الدواء حتّى تتمكن 
+فيما بعد من البيع عن طريق الباركود .</b></p>
+<p align="center"><b>كل ما عليك هو تحديد الدواء المطلوب و النقر على زر طباعة 
+اللصاقات لتظهر الشاشة التالية</b></p>
+<p align="center"><img border="0" src="18.gif" width="800" height="600"></p>
+<p align="center"><b>الآن بإمكانك طباعة هذه الصفحة على أي ورق لاصق عادي و من ثم 
+تقطيع الأوراق و لصقها على عبوات الأدوية .</b></p>
+<p align="center"><b>طبعاً الأوامر الموجودة في مستودع الصيدليّة بسيطة و لا تحتاج 
+سوى لبعض الدقّة في فهم الغرض منها فمثلاً زر الأدوية النافذة يستخدم</b></p>
+<p align="center"><b>لعرض قائمة بالأدوية التي لم يعد متوفراً منها في المستودع 
+((أصبح العدد المتوفر منها مساوياً الصفر إثر عمليات البيع)) </b></p>
+<p align="center"><b><font color="#000080">ملاحظة :</font> في جميع نوافذ 
+البرنامج التي يتم الاعتماد بها على معلومات تم ادخالها مسبقاً يتم تحديد المعلومات 
+بالنقر المزدوج و يكون لون مربعات النصوص أصفراً .</b></p>
+<p align="center"><font color="#008000" size="5"><b><a name="سجل_العملاء__">سجل 
+العملاء </a></b></font></p>
+<p align="center"><b>مشابه من حيث المبدأ لتبويب شركات الأدوية لكن الفرق هنا أننا 
+سوف نقوم بإدخال العملاء الذين سوف يكون لهم حسابات مع الصيدليّة</b></p>
+<p align="center"><b>مثل (المبيعات بالأجل - الديون - الشراء بالأجل) بإختصار كل 
+العملاء الذين سيكون التعامل معهم بشكل غير نقدي .</b></p>
+<p align="center"><img border="0" src="19.gif" width="800" height="600"></p>
+<p align="center"><span dir="rtl"><b><font color="#000080">ملاحظة :</font> عندما 
+تقوم بإضافة أي عميل سوف يقوم النظام بمنحه رقماً خاصاً يدعى كود العميل بحيث لا 
+يكون ذلك بتدخّل منك و إنما سوف يستخدم هذا الكود</b></span></p>
+<p align="center"><span dir="rtl"><b>&nbsp;. لأغراض خاصة في النظام وقد جرى 
+التنويه لعدم حصول أي مفاجئة عند رؤية حقل كود العميل .</b></span></p>
+<p align="center"><font color="#008000" size="5"><b><a name="حسابات_العملاء_">
+حسابات العملاء</a></b></font></p>
+<p align="center"><b>هنا يتم إدخال حسابات كل عميل في جدول خاص بالعميل (دفتر حساب 
+خاص بالعميل) و العملية سهلة جداً كل ما عليك هو القيام بعملية النقر المزودج</b></p>
+<p align="center"><b>على اسم العميل المطلوب حتى تشاهد دفتر الحسابات الخاص 
+بالعميل عندها تستطيع الإضافة بكل سهولة و يسر بعد معرفتك لقاعدة مدين/دائن 
+المحاسبيّة</b></p>
+<p align="center"><b><font color="#FF0000">قاعدة مدين / دائن :</font> تنص هذه 
+القاعدة أنه عندما نقوم نحن بالدفع لعميل يتم تسجيل ذلك في حقل المدين و عندما يقوم 
+العميل بالدفع لنا يتم التسجيل بحقل الدائن</b></p>
+<p align="center"><b>ملاحظة : لا يمكن لنفس المبلغ أن يكون مديناً و دائناً في نفس 
+الوقت فهو إما مدين أو دائن و يتم هنا تجاهل أي قاعدة أخرى غير المذكورة هنا لأن 
+النظام</b></p>
+<p align="center"><b>سوف يتولى القيام بتنسيق باقي العمليات المحاسبيّة .</b></p>
+<p align="center"><img border="0" src="20.gif" width="800" height="600"></p>
+<p align="center"><b>لاحظ أنّه يتم عرض مجموع حقلي مدين ودائن أسفل الجدول كما 
+يظهر حقل حالة الحساب في الركن الأيسر .</b></p>
+<p align="center"><img border="0" src="21.gif" width="800" height="600"></p>
+<p align="center"><b><font size="5" color="#008000"><a name="اليوميّة__">
+اليوميّة </a></font></b></p>
+<p align="center"><b>هذا التبويب من أهم التبويبات في النظام فمن خلاله يتم ادخال 
+المبيعات اليوميّة سواء أكانت هذه المبيعات نقداً أو بالأجل</b></p>
+<p align="center"><img border="0" src="22.gif" width="800" height="600"></p>
+<p align="center"><b>و عملية المبيع سهلة جداً كل ما علينا هو اختيار الأمر نقطة 
+مبيع(للمبيعات النقديّة)<span lang="en-us"> </span>لتظهر لنا الشاشة التالية</b></p>
+<p align="center"><img border="0" src="23.gif" width="800" height="600"></p>
+<p align="center"><b>الآن نقوم بالنقر نقراً مزوجاً على مربع اسم الشركة او مربع 
+اسم الدواء او نختار الأمر اختيار الدواء لتظهر لنا الشاشة التالية</b></p>
+<p align="center"><img border="0" src="24.gif" width="800" height="600"></p>
+<p align="center"><b>&nbsp;في حال وجود قارئ باركود قم بتمرير عبوة الدواء أمام 
+القارئ ليتم تحديد الدواء ثم انقر الزر موافق و في حال عدم وجود القارئ يمكن القيام 
+بالبحث عنه </b></p>
+<p align="center"><b>و تحديد الدواء يدويّا .</b></p>
+<p align="center"><b>الآن بعد أن تضغط زر موافق سوف تعود للشاشة نقطة مبيع و سوف 
+تظهر كمايلي</b></p>
+<p align="center"><img border="0" src="25.gif" width="800" height="600"></p>
+<p align="center"><b>قم بإدخال عدد القطع المباعة ثم اضغط الأمر (+) لتشاهد الشاشة 
+التالية</b></p>
+<p align="center"><img border="0" src="26.gif" width="800" height="600"></p>
+<p align="center"><b>في حال مبيع اكثر من صنف يمكنك تكرار العمليّة في حال الرغبة 
+في إلغاء أي دواء من قائمة المبيع يمكنك النقر على زر (-) في أي لحظة .</b></p>
+<p align="center"><b>الآن و بعد ادخال كافة الأدوية يمكنك إنهاء المبيع بالنقر على 
+زر (=) لتظهر شاشة تطالبك بإدخال المبلغ المقبوض من الزبون لكي يتم تسجيل المبيع</b></p>
+<p align="center"><img border="0" src="27.gif" width="800" height="600"></p>
+<p align="center"><b>طبعاً يتم تغيير المقبوض من العميل ((إذا كان هناك فرق بينه و 
+بينه الثمن الافتراضي)) ثم ضغط زر موافق .</b></p>
+<p align="center"><b><font color="#0000FF">الثمن الافتراضي :</font> هو السعر 
+الذي وضعه البرنامج للأدوية اعتماداً على سعر القطعة الواحدة التي تم ادخالها 
+مسبقاً في المستودع لكن أحياناً قد تضطر لتغيير المبلغ المقبوض</b></p>
+<p align="center"><b>نظراً لدقة الأرقام فمن غير المعقول أن تطالب زبوناً بمبلغ 
+20.14 مثلاً !!.</b></p>
+<p align="center"><b>&nbsp;في حال كون المبيع بالأجل سوف يكون الفرق الوحيد هو أن 
+العملية سوف تتم عن طريق اختيار اسم العميل عند انهاء المبيع </b></p>
+<p align="center"><b>ليتم تسجيل قيمة المبيع الافتراضية في حقل مدين في دفتر 
+حسابات العميل .</b></p>
+<p align="center"><img border="0" src="28.gif" width="800" height="600"></p>
+<p align="center"><img border="0" src="29.gif" width="800" height="600"></p>
+<p align="center"><b><font color="#0000FF">ملاحظة :</font> لا يعتبر المبيع تاماً 
+ولا يتم تسجيل أي بيانات على المبيع كما لا يتم احتساب المبيع ضمن الأرباح إلا بعد 
+النقر على زر إنهاء المبيع .</b></p>
+<p align="center"><b><font color="#0000FF">ملاحظة 2 :</font> يتم تغيير العدد 
+الموجود في المستودع بناءً على عمليات البيع التي تتم في اليوميّة .</b></p>
+<p align="center"><b>يمكنك القيام بعمليّة ارتجاع لدواء معيّن بعد بيعه من خلال 
+الأمر ارتجاع دواء فسوف تظهر لك شاشة تقوم بتحديد بيانات الدواء و تدخل العدد 
+المرتجع</b></p>
+<p align="center"><b>و سوف يقوم النظام&nbsp; بتسجيل قيمة الدواء المرتجع بقيمة 
+سالبة حتّى لا تتأثر عملية حساب الأرباح .</b></p>
+<p align="center"><img border="0" src="30.gif" width="800" height="600"></p>
+<p align="center"><b><font size="5" color="#008000"><a name="التقارير_:_">
+التقارير :</a></font></b></p>
+<p align="center"><b>&nbsp;من خلال هذا التبويب يمكن إنشاء تقارير مخصصة عن أمور و 
+وظائف معيّنة في البرنامج بغية طباعتها </b></p>
+<p align="center"><img border="0" src="31.gif" width="800" height="600"></p>
+<p align="center"><b>و هناك ثلاث أنواع رئيسيّة من التقارير (تقارير المستودع - 
+تقارير العملاء - التقارير الماليّة)</b></p>
+<p align="center"><b>أما تقارير المستودع فمن خلالها يمكن عرض الأدوية المتوفرة و 
+النافذة و الفاسدة</b></p>
+<p align="center"><img border="0" src="32.gif" width="800" height="600"></p>
+<p align="center"><img border="0" src="33.gif" width="800" height="600"></p>
+<p align="center"><b>و أما تقارير العملاء فمن خلالها يمكن توليد تقارير عن حسابات 
+عميل معيّن</b></p>
+<p align="center"><img border="0" src="34.gif" width="800" height="600"></p>
+<p align="center"><b>أما التقارير الماليّة فتعنى بالمبيعات حيث تمكنك من معرفة 
+إجمالي المبيعات - مبيعات تاريخ معيّن - مبيعات بين تاريخين</b></p>
+<p align="center"><img border="0" src="35.gif" width="800" height="600"></p>
+<p align="center"><a name="مستخدم_صيانة_النظام_السرّي_">
+<font size="4" color="#008000"><b><a name="مستخدم_صيانة_النظام_السرّي_">حسابات 
+المستخدمين :</a></b></font></a></p>
+<p align="center"><b>من خلال هذا التبويب يمكن إنشاء أكثر من مستخدم للنظام و كل 
+منهم له صلاحيات يقوم بتحديدها مدير النظام حيث بإمكانك تحديد الأقسام</b></p>
+<p align="center"><b>التي يحق لكل مستخدم الدخول لها و الأقسام التي لا يحق له 
+الوصول إليها .</b></p>
+<p align="center"><img border="0" src="36.gif" width="800" height="600"><b> </b></p>
+<p align="center"><font color="#008000" size="4"><b><a name="النسخ_الإحتياطي_:">
+النسخ الإحتياطي :</a></b></font></p>
+<p align="center"><b>من خلال هذا القسم يمكن عمل نسخ احتياطي لقاعدة البيانات و استعادته في 
+حال حصول أي مشاكل ((بعد عمليّة الـ <span lang="en-us">Format</span> مثلاً)) </b>
+</p>
+<p align="center"><b>ملاحظة : يفضّل عمل نسخ احتياطي يومي أو إسبوعي لقاعدة 
+البيانات لضمان عدم ضياع المعلومات في حال حصول أي مشكلة لا سمح الله !</b></p>
+<p align="center"><img border="0" src="37.gif" width="800" height="600"></p>
+<p align="center">&nbsp;</p>
+<p align="center"><b><font size="4" color="#FF0000">ملاحظة هامة جداً جداً :</font></b></p>
+<p align="center"><font size="4"><b>تم اختصار الشرح بشكل كبير جداً و قد اقتصرت 
+في شرحي هذا على كيفية التعامل مع البرنامج بشكل عام</b></font></p>
+<p align="center"><font size="4"><b>و لم أقم بالدخول في التفاصيل الدقيقة كونه لا 
+بدّ من أنك تعرفها فهي من الأمور الواجب عليك معرفتها كونك تتعامل مع نظام التشغيل 
+بشكل جيّد .</b></font></p>
+<p align="center">&nbsp;</p>
+<p align="center"><font size="4"><b>و لله الحمد من قبلٍ و من بعد </b></font></p>
+<p align="center"><font size="4"><b>
+**********************************************************************************</b></font></p>
+<p align="center"><font size="6" color="#FF0000"><b>مبرمج النظام : مختار السيد 
+صالح</b></font></p>
+<p align="center"><b><font size="4" color="#FF0000">للطلب و الاستعلام الاتصال 
+على جوّال رقم </font></b></p>
+<p align="center"><b><font size="4" color="#FF0000">من خارج سوريا</font></b></p>
+<p align="center"><b><font size="4">00963944467547</font></b></p>
+<p align="center"><b><font size="4" color="#FF0000">من داخل سوريا</font></b></p>
+<p align="center"><b><font size="4">0944467547</font></b></p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+
+</body>
+
+</html>

@@ -1,0 +1,1048 @@
+[Root]
+Most Recent Package= Õ“Ì„ ‰Â«∆Ì 1
+Most Recent Deploy=Folder Deployment 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Pharmacy\Package (2)
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=No
+ODBCDirect=No
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\WINDOWS\system32\ClockSHatem.ocx=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\WINDOWS\system32\ChangeRes.ocx=
+C:\WINDOWS\system32\actskin4.ocx=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\Comdlg32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+e:\pharmacy\help\1.gif=
+e:\pharmacy\help\2.gif=
+e:\pharmacy\help\3.gif=
+e:\pharmacy\help\4.gif=
+e:\pharmacy\help\5.gif=
+e:\pharmacy\help\6.gif=
+e:\pharmacy\help\help.mok=
+e:\pharmacy\mokhtar.skn=
+e:\pharmacy\pharmokhtar.dll=
+E:\Pharmacy 3\7.gif=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\actskin4.ocx=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\ClockSHatem.ocx=Yes
+C:\WINDOWS\system32\DBGRID32.OCX=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\Pharmacy\help\1.gif=Yes
+E:\Pharmacy\help\2.gif=Yes
+E:\Pharmacy\help\3.gif=Yes
+E:\Pharmacy\help\4.gif=Yes
+E:\Pharmacy\help\5.gif=Yes
+E:\Pharmacy\help\6.gif=Yes
+E:\Pharmacy\help\help.mok=Yes
+E:\Pharmacy\mokhtar.skn=Yes
+E:\Pharmacy\pharmokhtar.dll=Yes
+E:\Pharmacy 3\Pharmacy.exe=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+E:\Pharmacy 3\7.gif=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+E:\Pharmacy\Pharmacy.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\ChangeRes.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\ClockSHatem.ocx=$(WinSysPath)
+C:\WINDOWS\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\Pharmacy\help\1.gif=$(AppPath)
+E:\Pharmacy\help\2.gif=$(AppPath)
+E:\Pharmacy\help\3.gif=$(AppPath)
+E:\Pharmacy\help\4.gif=$(AppPath)
+E:\Pharmacy\help\5.gif=$(AppPath)
+E:\Pharmacy\help\6.gif=$(AppPath)
+E:\Pharmacy\help\help.mok=$(AppPath)
+E:\Pharmacy\mokhtar.skn=$(AppPath)
+E:\Pharmacy\pharmokhtar.dll=$(AppPath)
+E:\Pharmacy 3\Pharmacy.exe=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+E:\Pharmacy 3\7.gif=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+E:\Pharmacy\Pharmacy.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+E:\Pharmacy\help\1.gif=Yes
+E:\Pharmacy\help\2.gif=Yes
+E:\Pharmacy\help\3.gif=Yes
+E:\Pharmacy\help\4.gif=Yes
+E:\Pharmacy\help\5.gif=Yes
+E:\Pharmacy\help\6.gif=Yes
+E:\Pharmacy\help\help.mok=Yes
+E:\Pharmacy\mokhtar.skn=Yes
+E:\Pharmacy\pharmokhtar.dll=Yes
+E:\Pharmacy 3\Pharmacy.exe=No
+E:\Pharmacy 3\7.gif=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Pharmacy 2007 - ‰Ÿ«„ «·’Ìœ·Ì¯… 2007
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=‰Ÿ«„ «·’Ìœ·Ì¯… 2007
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|‰Ÿ«„ «·’Ìœ·Ì¯… 2007]
+Icon1=Pharmacy.exe
+Title1=‰Ÿ«„ «·’Ìœ·Ì¯… 2007
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=E:\Pharmacy\Package (2)
+ProjectFolder=E:\Pharmacy 3
+ServerSideCab=
+File1=E:\Pharmacy\Package (2)\setup.exe
+File2=E:\Pharmacy\Package (2)\Setup.Lst
+File3=E:\Pharmacy\Package (2)\Pharmacy.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Pharmacy 3\Package
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Exchange=Yes
+Text=Yes
+Jet 2.x=Yes
+Lotus=Yes
+Paradox=Yes
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+C:\WINDOWS\system32\MSEXCH35.DLL=
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\WINDOWS\system32\ClockSHatem.ocx=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\WINDOWS\system32\actskin4.ocx=
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\Comdlg32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 2|Files Added]
+
+[Package|Standard Setup Package 2|Files Removed]
+
+[Package|Standard Setup Package 2|Files In Project]
+E:\Pharmacy 3\Pharmacy.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\actskin4.ocx=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\ClockSHatem.ocx=Yes
+C:\WINDOWS\system32\DBGRID32.OCX=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\MSEXCL35.DLL=Yes
+C:\WINDOWS\system32\MSEXCH35.DLL=Yes
+C:\WINDOWS\system32\MSLTUS35.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINDOWS\system32\MSPDOX35.DLL=Yes
+C:\WINDOWS\system32\MSTEXT35.DLL=Yes
+C:\WINDOWS\system32\MSXBSE35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+E:\Pharmacy 3\Pharmacy.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\actskin4.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\ClockSHatem.ocx=$(WinSysPath)
+C:\WINDOWS\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSEXCH35.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINDOWS\system32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+E:\Pharmacy 3\Pharmacy.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=
+Title=Pharmacy
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=Pharmacy
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|Pharmacy]
+Icon1=Pharmacy.exe
+Title1=Pharmacy
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=E:\Pharmacy 3\Package
+ProjectFolder=E:\Pharmacy 3
+ServerSideCab=
+File1=E:\Pharmacy 3\Package\setup.exe
+File2=E:\Pharmacy 3\Package\Setup.Lst
+File3=E:\Pharmacy 3\Package\Pharmacy.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Deploy|Folder Deployment 1|Root]
+Package=Standard Setup Package 1
+Handler=PDWizard.FolderDplySubWiz
+Folder=e:\Pharmacy 3\deployment
+
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Pharmacy 3\Package
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Exchange=Yes
+Text=Yes
+Jet 2.x=Yes
+Lotus=Yes
+Paradox=Yes
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Files Found]
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Files Released]
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Missing Dependency Information]
+C:\WINDOWS\system32\MSEXCH35.DLL=
+C:\WINDOWS\system32\msderun.dll=
+C:\WINDOWS\system32\msstdfmt.dll=
+E:\Pharmacy 3\ClockSHatem.ocx=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\WINDOWS\system32\actskin4.ocx=
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\RICHTX32.OCX=
+C:\WINDOWS\system32\Comdlg32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\msbind.dll=
+C:\WINDOWS\system32\msdbrptr.dll=
+C:\WINDOWS\system32\dbgrid32.ocx=
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Files Added]
+E:\Pharmacy 3\1.gif=
+E:\Pharmacy 3\2.gif=
+E:\Pharmacy 3\3.gif=
+E:\Pharmacy 3\4.gif=
+E:\Pharmacy 3\5.gif=
+E:\Pharmacy 3\6.gif=
+E:\Pharmacy 3\7.gif=
+E:\Pharmacy 3\8.gif=
+E:\Pharmacy 3\9.gif=
+E:\Pharmacy 3\10.gif=
+E:\Pharmacy 3\12.gif=
+E:\Pharmacy 3\13.gif=
+E:\Pharmacy 3\14.gif=
+E:\Pharmacy 3\15.gif=
+E:\Pharmacy 3\16.gif=
+E:\Pharmacy 3\17.gif=
+E:\Pharmacy 3\18.gif=
+E:\Pharmacy 3\19.gif=
+E:\Pharmacy 3\20.gif=
+E:\Pharmacy 3\21.gif=
+E:\Pharmacy 3\22.gif=
+E:\Pharmacy 3\23.gif=
+E:\Pharmacy 3\24.gif=
+E:\Pharmacy 3\25.gif=
+E:\Pharmacy 3\26.gif=
+E:\Pharmacy 3\27.gif=
+E:\Pharmacy 3\28.gif=
+E:\Pharmacy 3\29.gif=
+E:\Pharmacy 3\30.gif=
+E:\Pharmacy 3\31.gif=
+E:\Pharmacy 3\32.gif=
+E:\Pharmacy 3\33.gif=
+E:\Pharmacy 3\34.gif=
+E:\Pharmacy 3\35.gif=
+E:\Pharmacy 3\36.gif=
+E:\Pharmacy 3\37.gif=
+E:\Pharmacy 3\actskin4.oca=
+E:\Pharmacy 3\ChangeRes.oca=
+E:\Pharmacy 3\ClockSHatem.oca=
+E:\Pharmacy 3\FREE3OF9.TTF=
+E:\Pharmacy 3\help.mok=
+E:\Pharmacy 3\mokhtar.skn=
+E:\Pharmacy 3\pharmokhtar.dll=
+E:\Pharmacy 3\test.txt=
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Files Removed]
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Files In Project]
+E:\Pharmacy 3\Pharmacy.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\actskin4.ocx=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+E:\Pharmacy 3\ClockSHatem.ocx=Yes
+C:\WINDOWS\system32\dbgrid32.ocx=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\msderun.dll=Yes
+C:\WINDOWS\system32\msdbrptr.dll=Yes
+C:\WINDOWS\system32\msbind.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\MSEXCL35.DLL=Yes
+C:\WINDOWS\system32\MSEXCH35.DLL=Yes
+C:\WINDOWS\system32\MSLTUS35.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINDOWS\system32\MSPDOX35.DLL=Yes
+C:\WINDOWS\system32\MSTEXT35.DLL=Yes
+C:\WINDOWS\system32\MSXBSE35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\Pharmacy 3\1.gif=Yes
+E:\Pharmacy 3\2.gif=Yes
+E:\Pharmacy 3\3.gif=Yes
+E:\Pharmacy 3\4.gif=Yes
+E:\Pharmacy 3\5.gif=Yes
+E:\Pharmacy 3\6.gif=Yes
+E:\Pharmacy 3\7.gif=Yes
+E:\Pharmacy 3\8.gif=Yes
+E:\Pharmacy 3\9.gif=Yes
+E:\Pharmacy 3\10.gif=Yes
+E:\Pharmacy 3\12.gif=Yes
+E:\Pharmacy 3\13.gif=Yes
+E:\Pharmacy 3\14.gif=Yes
+E:\Pharmacy 3\15.gif=Yes
+E:\Pharmacy 3\16.gif=Yes
+E:\Pharmacy 3\17.gif=Yes
+E:\Pharmacy 3\18.gif=Yes
+E:\Pharmacy 3\19.gif=Yes
+E:\Pharmacy 3\20.gif=Yes
+E:\Pharmacy 3\21.gif=Yes
+E:\Pharmacy 3\22.gif=Yes
+E:\Pharmacy 3\23.gif=Yes
+E:\Pharmacy 3\24.gif=Yes
+E:\Pharmacy 3\25.gif=Yes
+E:\Pharmacy 3\26.gif=Yes
+E:\Pharmacy 3\27.gif=Yes
+E:\Pharmacy 3\28.gif=Yes
+E:\Pharmacy 3\29.gif=Yes
+E:\Pharmacy 3\30.gif=Yes
+E:\Pharmacy 3\31.gif=Yes
+E:\Pharmacy 3\32.gif=Yes
+E:\Pharmacy 3\33.gif=Yes
+E:\Pharmacy 3\34.gif=Yes
+E:\Pharmacy 3\35.gif=Yes
+E:\Pharmacy 3\36.gif=Yes
+E:\Pharmacy 3\37.gif=Yes
+E:\Pharmacy 3\actskin4.oca=Yes
+E:\Pharmacy 3\ChangeRes.oca=Yes
+E:\Pharmacy 3\ClockSHatem.oca=Yes
+E:\Pharmacy 3\FREE3OF9.TTF=Yes
+E:\Pharmacy 3\help.mok=Yes
+E:\Pharmacy 3\mokhtar.skn=Yes
+E:\Pharmacy 3\pharmokhtar.dll=Yes
+E:\Pharmacy 3\test.txt=Yes
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Configure Registry Files]
+Applicable=No
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Configure Remote Servers]
+Applicable=No
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Install Locations]
+E:\Pharmacy 3\Pharmacy.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\actskin4.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+E:\Pharmacy 3\ClockSHatem.ocx=$(WinSysPath)
+C:\WINDOWS\system32\dbgrid32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\msderun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msdbrptr.dll=$(WinSysPath)
+C:\WINDOWS\system32\msbind.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSEXCH35.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINDOWS\system32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\Pharmacy 3\1.gif=$(AppPath)
+E:\Pharmacy 3\2.gif=$(AppPath)
+E:\Pharmacy 3\3.gif=$(AppPath)
+E:\Pharmacy 3\4.gif=$(AppPath)
+E:\Pharmacy 3\5.gif=$(AppPath)
+E:\Pharmacy 3\6.gif=$(AppPath)
+E:\Pharmacy 3\7.gif=$(AppPath)
+E:\Pharmacy 3\8.gif=$(AppPath)
+E:\Pharmacy 3\9.gif=$(AppPath)
+E:\Pharmacy 3\10.gif=$(AppPath)
+E:\Pharmacy 3\12.gif=$(AppPath)
+E:\Pharmacy 3\13.gif=$(AppPath)
+E:\Pharmacy 3\14.gif=$(AppPath)
+E:\Pharmacy 3\15.gif=$(AppPath)
+E:\Pharmacy 3\16.gif=$(AppPath)
+E:\Pharmacy 3\17.gif=$(AppPath)
+E:\Pharmacy 3\18.gif=$(AppPath)
+E:\Pharmacy 3\19.gif=$(AppPath)
+E:\Pharmacy 3\20.gif=$(AppPath)
+E:\Pharmacy 3\21.gif=$(AppPath)
+E:\Pharmacy 3\22.gif=$(AppPath)
+E:\Pharmacy 3\23.gif=$(AppPath)
+E:\Pharmacy 3\24.gif=$(AppPath)
+E:\Pharmacy 3\25.gif=$(AppPath)
+E:\Pharmacy 3\26.gif=$(AppPath)
+E:\Pharmacy 3\27.gif=$(AppPath)
+E:\Pharmacy 3\28.gif=$(AppPath)
+E:\Pharmacy 3\29.gif=$(AppPath)
+E:\Pharmacy 3\30.gif=$(AppPath)
+E:\Pharmacy 3\31.gif=$(AppPath)
+E:\Pharmacy 3\32.gif=$(AppPath)
+E:\Pharmacy 3\33.gif=$(AppPath)
+E:\Pharmacy 3\34.gif=$(AppPath)
+E:\Pharmacy 3\35.gif=$(AppPath)
+E:\Pharmacy 3\36.gif=$(AppPath)
+E:\Pharmacy 3\37.gif=$(AppPath)
+E:\Pharmacy 3\actskin4.oca=$(AppPath)
+E:\Pharmacy 3\ChangeRes.oca=$(AppPath)
+E:\Pharmacy 3\ClockSHatem.oca=$(AppPath)
+E:\Pharmacy 3\FREE3OF9.TTF=$(Font)
+E:\Pharmacy 3\help.mok=$(AppPath)
+E:\Pharmacy 3\mokhtar.skn=$(AppPath)
+E:\Pharmacy 3\pharmokhtar.dll=$(AppPath)
+E:\Pharmacy 3\test.txt=$(AppPath)
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Configure Shared Files]
+Applicable=Yes
+E:\Pharmacy 3\Pharmacy.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+E:\Pharmacy 3\1.gif=No
+E:\Pharmacy 3\2.gif=No
+E:\Pharmacy 3\3.gif=No
+E:\Pharmacy 3\4.gif=No
+E:\Pharmacy 3\5.gif=No
+E:\Pharmacy 3\6.gif=No
+E:\Pharmacy 3\7.gif=No
+E:\Pharmacy 3\8.gif=No
+E:\Pharmacy 3\9.gif=No
+E:\Pharmacy 3\10.gif=No
+E:\Pharmacy 3\12.gif=No
+E:\Pharmacy 3\13.gif=No
+E:\Pharmacy 3\14.gif=No
+E:\Pharmacy 3\15.gif=No
+E:\Pharmacy 3\16.gif=No
+E:\Pharmacy 3\17.gif=No
+E:\Pharmacy 3\18.gif=No
+E:\Pharmacy 3\19.gif=No
+E:\Pharmacy 3\20.gif=No
+E:\Pharmacy 3\21.gif=No
+E:\Pharmacy 3\22.gif=No
+E:\Pharmacy 3\23.gif=No
+E:\Pharmacy 3\24.gif=No
+E:\Pharmacy 3\25.gif=No
+E:\Pharmacy 3\26.gif=No
+E:\Pharmacy 3\27.gif=No
+E:\Pharmacy 3\28.gif=No
+E:\Pharmacy 3\29.gif=No
+E:\Pharmacy 3\30.gif=No
+E:\Pharmacy 3\31.gif=No
+E:\Pharmacy 3\32.gif=No
+E:\Pharmacy 3\33.gif=No
+E:\Pharmacy 3\34.gif=No
+E:\Pharmacy 3\35.gif=No
+E:\Pharmacy 3\36.gif=No
+E:\Pharmacy 3\37.gif=No
+E:\Pharmacy 3\actskin4.oca=Yes
+E:\Pharmacy 3\ChangeRes.oca=Yes
+E:\Pharmacy 3\ClockSHatem.oca=Yes
+E:\Pharmacy 3\help.mok=Yes
+E:\Pharmacy 3\mokhtar.skn=No
+E:\Pharmacy 3\pharmokhtar.dll=No
+E:\Pharmacy 3\test.txt=No
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Distribution]
+Type=single
+Size=
+Title=«·„Œ «— ··»—„Ã… - ‰Ÿ«„ «·’Ìœ·Ì¯… 2007 «·≈’œ«— «·À«·À
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|IconGroups]
+Group0=«·„Œ «— ··»—„Ã… - ‰Ÿ«„ «·’Ìœ·Ì¯… 2007 «·≈’œ«— «·À«·À - ‰”Œ… √Ì«—
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|«·„Œ «— ··»—„Ã… - ‰Ÿ«„ «·’Ìœ·Ì¯… 2007 «·≈’œ«— «·À«·À - ‰”Œ… √Ì«—]
+Icon1=Pharmacy.exe
+Title1=«·„Œ «— ··»—„Ã… - ‰Ÿ«„ «·’Ìœ·Ì¯… 2007 ‰”Œ… √Ì«—
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1|Package]
+PackageFolder=E:\Pharmacy 3\Package
+ProjectFolder=E:\Pharmacy 3
+ServerSideCab=
+File1=E:\Pharmacy 3\Package\setup.exe
+File2=E:\Pharmacy 3\Package\Setup.Lst
+File3=E:\Pharmacy 3\Package\Pharmacy.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Pharmacy 3 Demo
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Exchange=Yes
+Text=Yes
+Jet 2.x=Yes
+Lotus=Yes
+Paradox=Yes
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Files Found]
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Files Released]
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Missing Dependency Information]
+C:\WINDOWS\system32\MSEXCH35.DLL=
+C:\WINDOWS\system32\msderun.dll=
+C:\WINDOWS\system32\msstdfmt.dll=
+E:\Pharmacy 3\ClockSHatem.ocx=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\WINDOWS\system32\actskin4.ocx=
+E:\Pharmacy 3 Demo\Pharmacy Demo.exe=
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\RICHTX32.OCX=
+C:\WINDOWS\system32\Comdlg32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\msbind.dll=
+C:\WINDOWS\system32\msdbrptr.dll=
+C:\WINDOWS\system32\dbgrid32.ocx=
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Files Added]
+e:\pharmacy 3\1.gif=
+e:\pharmacy 3\2.gif=
+e:\pharmacy 3\3.gif=
+e:\pharmacy 3\4.gif=
+e:\pharmacy 3\5.gif=
+e:\pharmacy 3\6.gif=
+e:\pharmacy 3\7.gif=
+e:\pharmacy 3\8.gif=
+e:\pharmacy 3\9.gif=
+e:\pharmacy 3\10.gif=
+e:\pharmacy 3\12.gif=
+e:\pharmacy 3\13.gif=
+e:\pharmacy 3\14.gif=
+e:\pharmacy 3\15.gif=
+e:\pharmacy 3\16.gif=
+e:\pharmacy 3\17.gif=
+e:\pharmacy 3\18.gif=
+e:\pharmacy 3\19.gif=
+e:\pharmacy 3\20.gif=
+e:\pharmacy 3\21.gif=
+e:\pharmacy 3\22.gif=
+e:\pharmacy 3\23.gif=
+e:\pharmacy 3\24.gif=
+e:\pharmacy 3\25.gif=
+e:\pharmacy 3\26.gif=
+e:\pharmacy 3\27.gif=
+e:\pharmacy 3\28.gif=
+e:\pharmacy 3\29.gif=
+e:\pharmacy 3\30.gif=
+e:\pharmacy 3\31.gif=
+e:\pharmacy 3\32.gif=
+e:\pharmacy 3\33.gif=
+e:\pharmacy 3\34.gif=
+e:\pharmacy 3\35.gif=
+e:\pharmacy 3\36.gif=
+e:\pharmacy 3\37.gif=
+e:\pharmacy 3\actskin4.oca=
+e:\pharmacy 3\changeres.oca=
+e:\pharmacy 3\clockshatem.oca=
+e:\pharmacy 3\free3of9.ttf=
+e:\pharmacy 3\help.mok=
+e:\pharmacy 3\mokhtar.skn=
+e:\pharmacy 3\pharmokhtar.dll=
+e:\pharmacy 3\test.txt=
+E:\Pharmacy 3 Demo\Pharmacy Demo.exe=
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Files Removed]
+e:\pharmacy 3\pharmacy.exe=
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Files In Project]
+E:\Pharmacy 3\Pharmacy.exe=No
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\actskin4.ocx=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+E:\Pharmacy 3\ClockSHatem.ocx=Yes
+C:\WINDOWS\system32\dbgrid32.ocx=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\msderun.dll=Yes
+C:\WINDOWS\system32\msdbrptr.dll=Yes
+C:\WINDOWS\system32\msbind.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\MSEXCL35.DLL=Yes
+C:\WINDOWS\system32\MSEXCH35.DLL=Yes
+C:\WINDOWS\system32\MSLTUS35.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINDOWS\system32\MSPDOX35.DLL=Yes
+C:\WINDOWS\system32\MSTEXT35.DLL=Yes
+C:\WINDOWS\system32\MSXBSE35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\Pharmacy 3\1.gif=Yes
+E:\Pharmacy 3\2.gif=Yes
+E:\Pharmacy 3\3.gif=Yes
+E:\Pharmacy 3\4.gif=Yes
+E:\Pharmacy 3\5.gif=Yes
+E:\Pharmacy 3\6.gif=Yes
+E:\Pharmacy 3\7.gif=Yes
+E:\Pharmacy 3\8.gif=Yes
+E:\Pharmacy 3\9.gif=Yes
+E:\Pharmacy 3\10.gif=Yes
+E:\Pharmacy 3\12.gif=Yes
+E:\Pharmacy 3\13.gif=Yes
+E:\Pharmacy 3\14.gif=Yes
+E:\Pharmacy 3\15.gif=Yes
+E:\Pharmacy 3\16.gif=Yes
+E:\Pharmacy 3\17.gif=Yes
+E:\Pharmacy 3\18.gif=Yes
+E:\Pharmacy 3\19.gif=Yes
+E:\Pharmacy 3\20.gif=Yes
+E:\Pharmacy 3\21.gif=Yes
+E:\Pharmacy 3\22.gif=Yes
+E:\Pharmacy 3\23.gif=Yes
+E:\Pharmacy 3\24.gif=Yes
+E:\Pharmacy 3\25.gif=Yes
+E:\Pharmacy 3\26.gif=Yes
+E:\Pharmacy 3\27.gif=Yes
+E:\Pharmacy 3\28.gif=Yes
+E:\Pharmacy 3\29.gif=Yes
+E:\Pharmacy 3\30.gif=Yes
+E:\Pharmacy 3\31.gif=Yes
+E:\Pharmacy 3\32.gif=Yes
+E:\Pharmacy 3\33.gif=Yes
+E:\Pharmacy 3\34.gif=Yes
+E:\Pharmacy 3\35.gif=Yes
+E:\Pharmacy 3\36.gif=Yes
+E:\Pharmacy 3\37.gif=Yes
+E:\Pharmacy 3\actskin4.oca=Yes
+E:\Pharmacy 3\ChangeRes.oca=Yes
+E:\Pharmacy 3\ClockSHatem.oca=Yes
+E:\Pharmacy 3\FREE3OF9.TTF=Yes
+E:\Pharmacy 3\help.mok=Yes
+E:\Pharmacy 3\mokhtar.skn=Yes
+E:\Pharmacy 3\pharmokhtar.dll=Yes
+E:\Pharmacy 3\test.txt=Yes
+E:\Pharmacy 3 Demo\Pharmacy Demo.exe=Yes
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Configure Registry Files]
+Applicable=No
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Configure Remote Servers]
+Applicable=No
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Install Locations]
+E:\Pharmacy 3\Pharmacy.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\actskin4.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+E:\Pharmacy 3\ClockSHatem.ocx=$(WinSysPath)
+C:\WINDOWS\system32\dbgrid32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\msderun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msdbrptr.dll=$(WinSysPath)
+C:\WINDOWS\system32\msbind.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSEXCH35.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINDOWS\system32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\Pharmacy 3\1.gif=$(AppPath)
+E:\Pharmacy 3\2.gif=$(AppPath)
+E:\Pharmacy 3\3.gif=$(AppPath)
+E:\Pharmacy 3\4.gif=$(AppPath)
+E:\Pharmacy 3\5.gif=$(AppPath)
+E:\Pharmacy 3\6.gif=$(AppPath)
+E:\Pharmacy 3\7.gif=$(AppPath)
+E:\Pharmacy 3\8.gif=$(AppPath)
+E:\Pharmacy 3\9.gif=$(AppPath)
+E:\Pharmacy 3\10.gif=$(AppPath)
+E:\Pharmacy 3\12.gif=$(AppPath)
+E:\Pharmacy 3\13.gif=$(AppPath)
+E:\Pharmacy 3\14.gif=$(AppPath)
+E:\Pharmacy 3\15.gif=$(AppPath)
+E:\Pharmacy 3\16.gif=$(AppPath)
+E:\Pharmacy 3\17.gif=$(AppPath)
+E:\Pharmacy 3\18.gif=$(AppPath)
+E:\Pharmacy 3\19.gif=$(AppPath)
+E:\Pharmacy 3\20.gif=$(AppPath)
+E:\Pharmacy 3\21.gif=$(AppPath)
+E:\Pharmacy 3\22.gif=$(AppPath)
+E:\Pharmacy 3\23.gif=$(AppPath)
+E:\Pharmacy 3\24.gif=$(AppPath)
+E:\Pharmacy 3\25.gif=$(AppPath)
+E:\Pharmacy 3\26.gif=$(AppPath)
+E:\Pharmacy 3\27.gif=$(AppPath)
+E:\Pharmacy 3\28.gif=$(AppPath)
+E:\Pharmacy 3\29.gif=$(AppPath)
+E:\Pharmacy 3\30.gif=$(AppPath)
+E:\Pharmacy 3\31.gif=$(AppPath)
+E:\Pharmacy 3\32.gif=$(AppPath)
+E:\Pharmacy 3\33.gif=$(AppPath)
+E:\Pharmacy 3\34.gif=$(AppPath)
+E:\Pharmacy 3\35.gif=$(AppPath)
+E:\Pharmacy 3\36.gif=$(AppPath)
+E:\Pharmacy 3\37.gif=$(AppPath)
+E:\Pharmacy 3\actskin4.oca=$(AppPath)
+E:\Pharmacy 3\ChangeRes.oca=$(AppPath)
+E:\Pharmacy 3\ClockSHatem.oca=$(AppPath)
+E:\Pharmacy 3\FREE3OF9.TTF=$(Font)
+E:\Pharmacy 3\help.mok=$(AppPath)
+E:\Pharmacy 3\mokhtar.skn=$(AppPath)
+E:\Pharmacy 3\pharmokhtar.dll=$(AppPath)
+E:\Pharmacy 3\test.txt=$(AppPath)
+E:\Pharmacy 3 Demo\Pharmacy Demo.exe=$(AppPath)
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Configure Shared Files]
+Applicable=Yes
+E:\Pharmacy 3\Pharmacy.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+E:\Pharmacy 3\1.gif=No
+E:\Pharmacy 3\2.gif=No
+E:\Pharmacy 3\3.gif=No
+E:\Pharmacy 3\4.gif=No
+E:\Pharmacy 3\5.gif=No
+E:\Pharmacy 3\6.gif=No
+E:\Pharmacy 3\7.gif=No
+E:\Pharmacy 3\8.gif=No
+E:\Pharmacy 3\9.gif=No
+E:\Pharmacy 3\10.gif=No
+E:\Pharmacy 3\12.gif=No
+E:\Pharmacy 3\13.gif=No
+E:\Pharmacy 3\14.gif=No
+E:\Pharmacy 3\15.gif=No
+E:\Pharmacy 3\16.gif=No
+E:\Pharmacy 3\17.gif=No
+E:\Pharmacy 3\18.gif=No
+E:\Pharmacy 3\19.gif=No
+E:\Pharmacy 3\20.gif=No
+E:\Pharmacy 3\21.gif=No
+E:\Pharmacy 3\22.gif=No
+E:\Pharmacy 3\23.gif=No
+E:\Pharmacy 3\24.gif=No
+E:\Pharmacy 3\25.gif=No
+E:\Pharmacy 3\26.gif=No
+E:\Pharmacy 3\27.gif=No
+E:\Pharmacy 3\28.gif=No
+E:\Pharmacy 3\29.gif=No
+E:\Pharmacy 3\30.gif=No
+E:\Pharmacy 3\31.gif=No
+E:\Pharmacy 3\32.gif=No
+E:\Pharmacy 3\33.gif=No
+E:\Pharmacy 3\34.gif=No
+E:\Pharmacy 3\35.gif=No
+E:\Pharmacy 3\36.gif=No
+E:\Pharmacy 3\37.gif=No
+E:\Pharmacy 3\actskin4.oca=Yes
+E:\Pharmacy 3\ChangeRes.oca=Yes
+E:\Pharmacy 3\ClockSHatem.oca=Yes
+E:\Pharmacy 3\help.mok=Yes
+E:\Pharmacy 3\mokhtar.skn=No
+E:\Pharmacy 3\pharmokhtar.dll=No
+E:\Pharmacy 3\test.txt=No
+E:\Pharmacy 3 Demo\Pharmacy Demo.exe=No
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Distribution]
+Type=single
+Size=
+Title=«·„Œ «— ··»—„Ã… - ‰Ÿ«„ «·’Ìœ·Ì¯… 2007 «·≈’œ«— «·À«·À
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|IconGroups]
+Group0=«·„Œ «— ··»—„Ã… - ‰Ÿ«„ «·’Ìœ·Ì¯… 2007 «·≈’œ«— «·À«·À - ‰”Œ… √Ì«—
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|«·„Œ «— ··»—„Ã… - ‰Ÿ«„ «·’Ìœ·Ì¯… 2007 «·≈’œ«— «·À«·À - ‰”Œ… √Ì«—]
+Icon1=Pharmacy.exe
+Title1=«·„Œ «— ··»—„Ã… - ‰Ÿ«„ «·’Ìœ·Ì¯… 2007 ‰”Œ… √Ì«—
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package| Õ“Ì„ ‰Â«∆Ì 1 ··œÌ„Ê|Package]
+PackageFolder=E:\Pharmacy 3 Demo
+ProjectFolder=E:\Pharmacy 3
+ServerSideCab=
+File1=E:\Pharmacy 3 Demo\setup.exe
+File2=E:\Pharmacy 3 Demo\Setup.Lst
+File3=E:\Pharmacy 3 Demo\Pharmacy.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
